@@ -334,7 +334,13 @@ input[type="search"]::-webkit-search-results-decoration { display: none; }
     margin-bottom: 0;
 }
 
-
+footer {
+    position: absolute;
+    bottom: -27vh;
+    left: 475px;
+    font-size: 1rem;
+    font-style: italic;
+}
 
 
 
