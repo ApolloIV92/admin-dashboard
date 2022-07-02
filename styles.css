@@ -158,7 +158,7 @@ input[type="search"]::-webkit-search-results-decoration { display: none; }
 .bodyContent {
     background-color: lightgray;
     display: grid;
-    grid-template-columns: 2fr 1fr;
+    grid-template-columns: minmax(420px, 2fr) 1fr;
     grid-template-rows: 0.25fr 0.75fr 0.25fr 0.75fr;
 }
 
